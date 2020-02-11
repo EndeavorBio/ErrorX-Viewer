@@ -8,4 +8,4 @@ ErrorX currently supports processing of antibody and T-cell repertoire sequencin
 
 See the [documentation page](https://endeavorbio.com/2019/02/01/documentation/) for more information on how to set up error correction.
 
-Copyright (c) 2019-2020, Alex Sevy. All Rights Reserved
+Copyright (c) 2019-2020, Alex Sevy. All Rights Reserved. For commercial inquiries contact us at alex@endeavorbio.com.
